@@ -1,0 +1,24 @@
+[submodule "vendor/doctrine-common"]
+	path = vendor/doctrine-common
+	url = https://github.com/doctrine/common.git
+[submodule "vendor/doctrine-dbal"]
+	path = vendor/doctrine-dbal
+	url = https://github.com/doctrine/dbal.git
+[submodule "vendor/doctrine-orm"]
+	path = vendor/doctrine-orm
+	url = https://github.com/doctrine/doctrine2.git
+[submodule "vendor/doctrine-extension"]
+	path = vendor/doctrine-extension
+	url = https://github.com/l3pp4rd/DoctrineExtensions.git
+[submodule "vendor/symfony/src/Symfony/Component/Yaml"]
+	path = vendor/symfony/src/Symfony/Component/Yaml
+	url = https://github.com/symfony/Yaml.git
+[submodule "vendor/symfony/src/Symfony/Component/Console"]
+	path = vendor/symfony/src/Symfony/Component/Console
+	url = https://github.com/symfony/Console.git
+[submodule "vendor/symfony/src/Symfony/Component/HttpFoundation"]
+	path = vendor/symfony/src/Symfony/Component/HttpFoundation
+	url = https://github.com/symfony/HttpFoundation.git
+[submodule "vendor/symfony/src/Symfony/Component/ClassLoader"]
+	path = vendor/symfony/src/Symfony/Component/ClassLoader
+	url = https://github.com/symfony/ClassLoader.git
