@@ -1,7 +1,9 @@
 __STATME__
 
 
-git clone git@github.com:statme-fr/statme.git
+Rappatrier le projet
+
+`git clone git@github.com:statme-fr/statme.git`
 
 `git status`
 
