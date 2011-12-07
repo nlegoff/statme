@@ -1,7 +1,9 @@
 __STATME__
 
 
-Base de donnée:
+git clone git@github.com:statme-fr/statme.git
+
+`git status`
 
 Remplir le fichier de configuration "config/db.yml"
 
