@@ -1,0 +1,14 @@
+#!/usr/bin/env php
+<?php
+
+$ormFile = __DIR__ . '/../vendor/doctrine-orm/bin/doctrine.php';
+
+if (is_file($ormFile))
+{
+  include('doctrine.php');
+}
+else
+{
+  print "Doctrine submodules are not loaded\n";
+  exit("exit command\n");
+}
