@@ -15,4 +15,4 @@ Tester la connection
 Puis éxécuter la commande
 `php bin/doctrine orm:schema-tool:create`
 
-modification radicale
+modification pull_request branch 
