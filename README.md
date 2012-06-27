@@ -15,5 +15,4 @@ Tester la connection
 Puis éxécuter la commande
 `php bin/doctrine orm:schema-tool:create`
 
-test
-
+modification radicale
